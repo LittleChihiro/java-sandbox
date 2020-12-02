@@ -1,0 +1,2 @@
+module programmieraufgabe05 {
+}
